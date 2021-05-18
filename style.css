@@ -168,7 +168,7 @@ color: black;
 
    
 
-.panel:hover{
+/*.panel:hover{
     width: 100%;
     max-width: 1000px;
     padding: 25px 35px;
@@ -177,7 +177,7 @@ color: black;
     background-color:whitesmoke ;
  
    
-}
+}*/
 
 @media (min-width:900px) {
     .panel{
